@@ -11,7 +11,7 @@
 
 ## Overview
 
-This project aimed to predict customer churn using machine learning models based on a telecom dataset from Kaggle. The dataset included features such as customer demographics, usage patterns, and service details. The best-performing model, XGBoost, achieved an accuracy of 0.9552, a PR AUC score of 0.8534, and a recall of 68.4%, making it the top model for detecting churn while maintaining 100% precision. LGBM followed closely with an accuracy of 0.9328 and a PR AUC of 0.8320. Feature importance analysis revealed that customer service calls, total day minutes, and international plan were the most critical predictors of churn. SMOTE effectively handled class imbalance, and hyperparameter tuning via GridSearchCV optimized model performance. 
+This project focuses on predicting customer churn using machine learning models. Churn prediction helps businesses identify customers who are likely to stop using their services. The project leverages various machine learning algorithms, including Random Forest, LightGBM, XGBoost, and CatBoost, to predict churn based on customer attributes.
 
 ## Dataset
 
