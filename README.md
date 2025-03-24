@@ -42,7 +42,7 @@ The dataset used in this project is the Telecom Churn Dataset from Kaggle. You c
 - `geopandas` & `us` - Mapping churn data by state.
 
 ### Machine Learning Models
-- `scikit-learn (sklearn)` - LogisticRegression, RandomForestClassifier, GradientBoostingClassifier.
+- `scikit-learn (sklearn)` -  RandomForestClassifier.
 - `XGBoost (xgboost)` - Powerful gradient boosting model.
 - `LightGBM (lightgbm)` - Efficient boosting model.
 - `CatBoost (catboost)` - Boosting model optimized for categorical features.
